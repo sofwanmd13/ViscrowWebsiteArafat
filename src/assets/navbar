@@ -1,0 +1,2 @@
+  // ✅ Only desktop "simple" pages (About, Pricing) – exclude dropdowns
+  const simplePages = pages.filter((p) => p.path);
